@@ -5,3 +5,5 @@ Fizz Buzz (Another Classic)
 Read more at https://en.wikipedia.org/wiki/Fizz_buzz
 
 This script will console log the numbers from 1 to 100 and for multiples of ‘3’ print “Fizz” instead of the number and for the multiples of ‘5’ print “Buzz”. When the number is divisible by both "3" and "5" it will console log FizzBuzz. 
+
+There is a While loop version and for loop version. The for handles the declaration and incrmentation of the count variable within the for statement
